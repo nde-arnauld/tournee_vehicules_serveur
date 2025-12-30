@@ -1,0 +1,21 @@
+;Bordeaux;Limoges;Poitiers;Pau;La Rochelle;Angouleme;Niort;Bayonne;Brive-la-Gaillarde;Talence;Merignac;Pessac;Villenave-d'Ornon;Arcachon;Biarritz;Royan;Libourne;Dax;Mont-de-Marsan;Agen
+Bordeaux;; Voie rapide; Voie rapide; Voie rapide; Nationale; Route europeenne; Autoroute; Route europeenne;Communale; Route europeenne; Departementale; Nationale; Voie rapide; Voie rapide; Voie rapide; Autoroute; Nationale; Voie rapide; Nationale; Voie rapide
+Limoges;;; Route europeenne; Autoroute; Nationale;Communale; Departementale; Voie rapide; Route europeenne; Nationale; Nationale; Route europeenne; Nationale; Departementale;Communale; Autoroute; Route europeenne; Departementale;Communale; Autoroute
+Poitiers;;;;Communale; Route europeenne; Route europeenne; Voie rapide; Autoroute; Route europeenne; Route europeenne; Voie rapide;Communale; Voie rapide; Route europeenne; Voie rapide; Nationale; Departementale; Departementale;Communale; Route europeenne
+Pau;;;;; Nationale;Communale;Communale; Autoroute; Nationale; Route europeenne; Departementale; Autoroute; Nationale; Route europeenne;Communale; Nationale; Departementale; Departementale; Nationale; Route europeenne
+La Rochelle;;;;;; Autoroute;Communale; Route europeenne; Nationale; Route europeenne; Route europeenne; Departementale; Autoroute; Autoroute; Nationale; Autoroute; Autoroute; Autoroute; Autoroute; Route europeenne
+Angouleme;;;;;;; Voie rapide; Voie rapide; Voie rapide; Nationale; Voie rapide; Departementale;Communale; Departementale; Voie rapide; Departementale; Autoroute; Nationale; Route europeenne;Communale
+Niort;;;;;;;;Communale; Departementale; Nationale; Autoroute; Departementale; Voie rapide;Communale; Route europeenne;Communale; Route europeenne; Route europeenne; Autoroute; Departementale
+Bayonne;;;;;;;;; Autoroute; Nationale; Voie rapide; Route europeenne; Voie rapide;Communale;Communale; Autoroute; Autoroute; Departementale; Route europeenne; Nationale
+Brive-la-Gaillarde;;;;;;;;;; Autoroute; Autoroute; Voie rapide; Departementale; Voie rapide; Route europeenne; Autoroute; Autoroute; Voie rapide;Communale; Voie rapide
+Talence;;;;;;;;;;; Nationale;Communale; Route europeenne;Communale; Voie rapide; Route europeenne; Route europeenne; Nationale; Nationale; Departementale
+Merignac;;;;;;;;;;;;Communale; Voie rapide;Communale; Route europeenne; Nationale; Route europeenne;Communale;Communale; Autoroute
+Pessac;;;;;;;;;;;;; Voie rapide; Voie rapide; Voie rapide; Departementale;Communale; Autoroute; Voie rapide; Autoroute
+Villenave-d'Ornon;;;;;;;;;;;;;;Communale;Communale; Voie rapide;Communale; Route europeenne; Departementale; Voie rapide
+Arcachon;;;;;;;;;;;;;;; Route europeenne; Autoroute; Departementale; Voie rapide; Nationale;Communale
+Biarritz;;;;;;;;;;;;;;;; Nationale; Departementale; Autoroute; Voie rapide;Communale
+Royan;;;;;;;;;;;;;;;;; Autoroute; Voie rapide; Voie rapide; Departementale
+Libourne;;;;;;;;;;;;;;;;;; Autoroute;Communale; Autoroute
+Dax;;;;;;;;;;;;;;;;;;;Communale; Voie rapide
+Mont-de-Marsan;;;;;;;;;;;;;;;;;;;; Nationale
+Agen;;;;;;;;;;;;;;;;;;;;

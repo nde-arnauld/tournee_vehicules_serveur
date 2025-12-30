@@ -1,0 +1,14 @@
+# vscode
+.vscode/
+
+# codeblocks
+*.cbp
+*.depend
+*.layout
+
+# build/compilation
+bin/
+obj/
+*.exe
+*.o
+*.out

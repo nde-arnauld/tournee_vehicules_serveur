@@ -1,0 +1,16 @@
+;Paris;Versailles;Boulogne-Billancourt;Saint-Denis;Nanterre;Creteil;Colombes;Aulnay-sous-Bois;Argenteuil;Asnieres-sur-Seine;Montreuil;Levallois-Perret;Antony;Cergy;Poissy
+Paris;;Communale; Voie rapide; Autoroute; Autoroute; Autoroute; Voie rapide; Nationale; Departementale; Voie rapide; Route europeenne; Route europeenne; Voie rapide; Departementale;Communale
+Versailles;;;Communale; Route europeenne;Communale;Communale; Autoroute; Departementale; Voie rapide; Autoroute; Departementale; Nationale;Communale; Route europeenne; Voie rapide
+Boulogne-Billancourt;;;; Nationale;Communale; Voie rapide; Voie rapide; Departementale; Voie rapide;Communale; Nationale; Route europeenne; Departementale; Voie rapide; Route europeenne
+Saint-Denis;;;;; Nationale; Voie rapide;Communale; Autoroute; Autoroute; Autoroute; Autoroute; Route europeenne; Voie rapide;Communale; Autoroute
+Nanterre;;;;;; Route europeenne; Autoroute; Route europeenne; Nationale; Nationale;Communale; Voie rapide; Departementale; Route europeenne; Nationale
+Creteil;;;;;;; Nationale; Route europeenne; Departementale; Route europeenne; Voie rapide; Autoroute; Autoroute; Autoroute; Autoroute
+Colombes;;;;;;;;Communale;Communale; Voie rapide; Voie rapide; Route europeenne;Communale; Voie rapide; Route europeenne
+Aulnay-sous-Bois;;;;;;;;; Departementale; Departementale; Route europeenne; Departementale; Departementale; Autoroute; Departementale
+Argenteuil;;;;;;;;;; Autoroute; Voie rapide; Voie rapide; Route europeenne; Route europeenne; Nationale
+Asnieres-sur-Seine;;;;;;;;;;; Departementale; Voie rapide; Route europeenne;Communale; Autoroute
+Montreuil;;;;;;;;;;;; Route europeenne; Voie rapide;Communale; Autoroute
+Levallois-Perret;;;;;;;;;;;;; Route europeenne; Nationale; Departementale
+Antony;;;;;;;;;;;;;; Departementale; Route europeenne
+Cergy;;;;;;;;;;;;;;; Nationale
+Poissy;;;;;;;;;;;;;;;

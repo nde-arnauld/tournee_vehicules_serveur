@@ -1,0 +1,20 @@
+;Lyon;Grenoble;Saint-Etienne;Clermont-Ferrand;Villeurbanne;Annecy;Chambery;Valence;Vienne;Bourg-en-Bresse;Montelimar;Roanne;Annemasse;Aix-les-Bains;Thonon-les-Bains;Le Puy-en-Velay;Aurillac;Albertville;Villefranche-sur-Saone
+Lyon;; Route europeenne; Voie rapide; Voie rapide; Autoroute; Voie rapide; Autoroute; Autoroute; Route europeenne; Voie rapide; Voie rapide; Departementale;Communale; Route europeenne; Voie rapide; Nationale; Route europeenne; Departementale; Voie rapide
+Grenoble;;; Nationale; Nationale; Route europeenne; Route europeenne; Nationale;Communale; Nationale; Autoroute; Departementale; Autoroute; Nationale; Route europeenne; Nationale; Autoroute; Route europeenne; Nationale; Autoroute
+Saint-Etienne;;;; Route europeenne;Communale; Departementale; Autoroute; Autoroute; Nationale; Departementale; Route europeenne; Autoroute;Communale; Departementale; Nationale;Communale; Autoroute;Communale;Communale
+Clermont-Ferrand;;;;; Autoroute; Departementale; Voie rapide; Departementale; Departementale; Departementale;Communale;Communale; Departementale;Communale; Autoroute;Communale;Communale; Autoroute; Route europeenne
+Villeurbanne;;;;;; Departementale; Route europeenne; Autoroute; Route europeenne; Voie rapide; Autoroute; Departementale; Nationale; Autoroute; Nationale; Voie rapide; Voie rapide;Communale; Nationale
+Annecy;;;;;;; Voie rapide; Nationale; Nationale; Autoroute; Voie rapide; Voie rapide; Departementale; Voie rapide; Autoroute; Nationale; Nationale; Autoroute; Autoroute
+Chambery;;;;;;;; Autoroute; Departementale; Route europeenne; Route europeenne; Autoroute; Voie rapide; Autoroute; Departementale; Route europeenne; Voie rapide;Communale;Communale
+Valence;;;;;;;;;Communale; Autoroute; Autoroute; Departementale; Voie rapide; Departementale; Route europeenne; Nationale; Departementale; Voie rapide; Voie rapide
+Vienne;;;;;;;;;;Communale; Nationale; Departementale; Voie rapide;Communale;Communale; Nationale; Departementale; Voie rapide; Voie rapide
+Bourg-en-Bresse;;;;;;;;;;;Communale; Nationale; Voie rapide; Nationale;Communale; Voie rapide; Departementale; Voie rapide; Departementale
+Montelimar;;;;;;;;;;;; Nationale; Autoroute; Voie rapide; Departementale; Departementale; Departementale; Route europeenne; Voie rapide
+Roanne;;;;;;;;;;;;; Voie rapide; Nationale; Route europeenne; Voie rapide; Route europeenne; Departementale;Communale
+Annemasse;;;;;;;;;;;;;;Communale;Communale; Route europeenne; Departementale; Voie rapide; Autoroute
+Aix-les-Bains;;;;;;;;;;;;;;; Departementale;Communale; Nationale; Nationale; Route europeenne
+Thonon-les-Bains;;;;;;;;;;;;;;;; Departementale; Route europeenne; Departementale; Autoroute
+Le Puy-en-Velay;;;;;;;;;;;;;;;;; Departementale; Departementale; Departementale
+Aurillac;;;;;;;;;;;;;;;;;; Nationale; Departementale
+Albertville;;;;;;;;;;;;;;;;;;; Route europeenne
+Villefranche-sur-Saone;;;;;;;;;;;;;;;;;;;

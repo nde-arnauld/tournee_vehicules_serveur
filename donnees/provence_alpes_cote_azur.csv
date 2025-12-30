@@ -1,0 +1,19 @@
+;Marseille;Nice;Toulon;Aix-en-Provence;Avignon;Antibes;Cannes;Frejus;Grasse;Arles;Martigues;Cagnes-sur-Mer;Draguignan;Manosque;Aubagne;Istres;Salon-de-Provence;Menton
+Marseille;; Departementale; Nationale; Departementale; Departementale;Communale; Voie rapide; Autoroute; Route europeenne; Voie rapide; Voie rapide; Route europeenne; Departementale; Voie rapide;Communale; Autoroute;Communale; Departementale
+Nice;;; Route europeenne; Voie rapide; Departementale;Communale; Voie rapide; Voie rapide; Departementale; Voie rapide; Autoroute; Departementale; Departementale;Communale; Departementale; Departementale; Route europeenne; Autoroute
+Toulon;;;; Autoroute;Communale; Autoroute; Departementale; Nationale;Communale; Voie rapide; Autoroute; Route europeenne; Route europeenne; Departementale; Departementale;Communale; Autoroute;Communale
+Aix-en-Provence;;;;; Autoroute; Route europeenne;Communale; Nationale; Nationale; Nationale; Route europeenne; Nationale; Nationale; Route europeenne; Departementale; Departementale; Nationale; Departementale
+Avignon;;;;;; Voie rapide; Route europeenne; Autoroute; Nationale; Nationale; Nationale; Voie rapide; Nationale; Voie rapide; Departementale; Autoroute; Departementale;Communale
+Antibes;;;;;;;Communale; Route europeenne; Departementale;Communale; Departementale; Autoroute; Route europeenne; Nationale; Nationale;Communale; Departementale;Communale
+Cannes;;;;;;;; Autoroute; Nationale; Route europeenne; Autoroute; Route europeenne; Autoroute; Voie rapide; Autoroute; Voie rapide; Route europeenne; Departementale
+Frejus;;;;;;;;; Departementale;Communale;Communale;Communale; Voie rapide; Autoroute; Departementale; Departementale; Departementale; Nationale
+Grasse;;;;;;;;;; Voie rapide; Departementale; Voie rapide; Nationale; Autoroute; Voie rapide; Departementale; Departementale;Communale
+Arles;;;;;;;;;;; Voie rapide; Autoroute; Autoroute; Voie rapide; Autoroute; Departementale; Nationale; Voie rapide
+Martigues;;;;;;;;;;;;Communale;Communale;Communale; Voie rapide; Autoroute; Nationale; Voie rapide
+Cagnes-sur-Mer;;;;;;;;;;;;; Nationale; Voie rapide; Departementale; Autoroute; Departementale; Nationale
+Draguignan;;;;;;;;;;;;;; Route europeenne; Route europeenne; Autoroute;Communale; Departementale
+Manosque;;;;;;;;;;;;;;; Autoroute; Departementale; Voie rapide; Nationale
+Aubagne;;;;;;;;;;;;;;;;Communale; Autoroute; Route europeenne
+Istres;;;;;;;;;;;;;;;;; Route europeenne; Departementale
+Salon-de-Provence;;;;;;;;;;;;;;;;;; Voie rapide
+Menton;;;;;;;;;;;;;;;;;;
