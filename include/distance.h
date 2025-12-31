@@ -2,7 +2,7 @@
 #define DISTANCE_H_INCLUDED
 
 #include <cmath>
-#include "Ville.h"
+#include "ville.h"
 
 // Rayon moyen de la Terre en km
 const double RAYON_TERRE = 6371.0;

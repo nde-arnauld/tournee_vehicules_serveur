@@ -1,32 +1,31 @@
+IDIR = include
+ODIR = obj
+SDIR = src
+SCDIR = script
+
 CXX = g++
+CXXFLAGS = -Wall -std=c++17 -g -I$(IDIR)
+LDFLAGS =
+ifeq ($(OS), Windows_NT)
+    LDFLAGS += -lws2_32
+endif
 
-CXXFLAGS = -Wall -std=c++17 -g
+TARGET = lancer_serveur
 
-# -lws2_32 : sockets sous Windows
-LDFLAGS = -lws2_32
-
-TARGET = lancer_serveur.exe
-
-SRCS = a_element.cpp \
-       distance.cpp \
-       evaluateur.cpp \
-       foncteur.cpp \
-       main_serveur.cpp \
-       serveur.cpp \
-       ville.cpp
-
-OBJS = $(SRCS:.cpp=.o)
+SRCS = $(wildcard $(SDIR)/*.cpp)
+OBJS = $(SRCS:$(SDIR)/%.cpp=$(ODIR)/%.o)
 
 all: $(TARGET)
 
 $(TARGET): $(OBJS)
 	$(CXX) -o $@ $^ $(LDFLAGS)
 
-%.o: %.cpp
+$(ODIR)/%.o: $(SDIR)/%.cpp
+	@mkdir -p $(ODIR)
 	$(CXX) $(CXXFLAGS) -c $< -o $@
 
 clean:
-	del /Q $(OBJS) $(TARGET)
+	rm -f $(OBJS) $(TARGET)
 
 run: $(TARGET)
-	.\$(TARGET)
+	./$(TARGET)
