@@ -19,9 +19,7 @@ int main(int argc, char* argv[]) {
         }
     }
 
-    cout << "========================================" << endl;
-    cout << "   SERVEUR D'OPTIMISATION DE TOURNEES   " << endl;
-    cout << "========================================" << endl;
+    cout << "\n---------- Serveur d'optimisation de tournees ----------\n" << endl;
 
     try {
         // 2. Instanciation du Serveur
