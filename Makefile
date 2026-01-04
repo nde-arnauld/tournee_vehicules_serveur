@@ -1,32 +1,42 @@
+IDIR = include
+ODIR = obj
+SDIR = src
+
 CXX = g++
+CXXFLAGS = -Wall -std=c++17 -g -I$(IDIR)
+LDFLAGS =
 
-CXXFLAGS = -Wall -std=c++17 -g
+SRCS = $(wildcard $(SDIR)/*.cpp)
+OBJS = $(SRCS:$(SDIR)/%.cpp=$(ODIR)/%.o)
 
-# -lws2_32 : sockets sous Windows
-LDFLAGS = -lws2_32
-
-TARGET = lancer_serveur.exe
-
-SRCS = a_element.cpp \
-       distance.cpp \
-       evaluateur.cpp \
-       foncteur.cpp \
-       main_serveur.cpp \
-       serveur.cpp \
-       ville.cpp
-
-OBJS = $(SRCS:.cpp=.o)
+ifeq ($(OS), Windows_NT)
+    SHELL := cmd
+    LDFLAGS += -lws2_32
+    TARGET = lancer_serveur.exe
+    MKDIR = if not exist $(ODIR) mkdir $(ODIR)
+    # Commande pour supprimer (convertit les / en \ pour 'del')
+    FIX_PATH = $(subst /,\,$1)
+    RM = del /Q /F
+else
+    TARGET = lancer_serveur
+    MKDIR = mkdir -p $(ODIR)
+    RM = rm -f
+    FIX_PATH = $1
+endif
 
 all: $(TARGET)
 
 $(TARGET): $(OBJS)
 	$(CXX) -o $@ $^ $(LDFLAGS)
 
-%.o: %.cpp
+$(ODIR)/%.o: $(SDIR)/%.cpp
+	@$(MKDIR)
 	$(CXX) $(CXXFLAGS) -c $< -o $@
 
 clean:
-	del /Q $(OBJS) $(TARGET)
+	$(RM) $(call FIX_PATH,$(OBJS)) $(call FIX_PATH,$(TARGET))
 
 run: $(TARGET)
-	.\$(TARGET)
+	./$(TARGET)
+
+.PHONY: all clean run

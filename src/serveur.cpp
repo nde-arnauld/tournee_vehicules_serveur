@@ -5,9 +5,9 @@
 #include <cmath>
 #include <locale>
 
-#include "Serveur.h"
-#include "Graphe.h"
-#include "Ville.h"
+#include "serveur.h"
+#include "graphe.h"
+#include "ville.h"
 #include "route.h"
 #include "distance.h"
 #include "algorithme_tsp.h"
